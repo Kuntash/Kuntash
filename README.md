@@ -4,7 +4,7 @@
 <p>
   <a href="mailto: kuntashtashi11@gmail.com">
   <img src="https://img.shields.io/badge/-kuntashtashi11@gmail.com-fffff?style=for-the-badge&amp;labelColor=fffff&amp;logo=gmail&amp;color=ffffff" alt="Email"></a>
-  <a href="www.kunga-tashi.netlify.app">
+  <a href="https://kunga-tashi.netlify.app/">
     <img src="https://img.shields.io/badge/-My_Portfolio-60f5d2?style=for-the-badge&amp;labelColor=60f5d2==&amp;logo=googlechrome&amp;link=https://kunga-tashi.netlify.app" alt="Website Badge">
   </a>
   &nbsp;
